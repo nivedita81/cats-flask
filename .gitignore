@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# VS Code
+.vscode/*
+
+# Mac Specific
+.DS_Store*
+
+# App Specific
+rescueDB.db
+
 # Distribution / packaging
 .Python
 build/
